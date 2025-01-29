@@ -84,6 +84,7 @@ output = model(image)
 print('输出形状', output.shape)
 
 # 输出
+输出形状 torch.Size([8, 10])
 ```
 
 ## 参数说明
