@@ -102,6 +102,6 @@ print('输出形状', output.shape)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+本项目使用 MIT 许可证，可以自由使用、修改和分发代码。
 
 ---
