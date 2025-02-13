@@ -100,7 +100,7 @@ print('输出形状', output.shape)
 - `dropout`: Dropout 比例，防止过拟合。
 - `classification`: 是否进行分类任务。如果为 `True`，则模型将输出分类结果；如果为 `False`，则返回 Transformer 的编码输出。
 
-## License
+## 许可证
 
 本项目使用 MIT 许可证，可以自由使用、修改和分发代码。
 
